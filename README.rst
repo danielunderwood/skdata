@@ -14,15 +14,15 @@ Installation
 
 There are several options for installation:
 
-  * From scratch:
+* From scratch:
 
-      * pip install --user
+  ``pip install --user``
 
-  * From a fresh git checkout:
+* From a fresh git checkout:
 
-      * python setup.py develop
+  ``python setup.py develop``
 
-      * python setup.py install
+  ``python setup.py install``
 
 
 Documentation
